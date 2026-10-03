@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 48" fill="none">
+  <defs>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F9D326" />
+      <stop offset="50%" stop-color="#E2A8BE" />
+      <stop offset="100%" stop-color="#D58EBF" />
+    </linearGradient>
+  </defs>
+  <text x="50%" y="46%" dominant-baseline="middle" text-anchor="middle" font-family="'Playfair Display', serif" font-size="22" font-weight="700" letter-spacing="5" fill="url(#goldGrad)">LUXORA</text>
+  <text x="50%" y="80%" dominant-baseline="middle" text-anchor="middle" font-family="'Inter', sans-serif" font-size="6" font-weight="600" letter-spacing="5" fill="#685561">CURATED FASHION</text>
+</svg>
